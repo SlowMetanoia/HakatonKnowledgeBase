@@ -156,7 +156,10 @@ git branch -d feature-x # удаляем временную ветку, если
 ---
 
 ## Reference
+### Видос с всей нужной инфой
+https://youtu.be/Ala6PHlYjmw
 
+---
 ### Интерактивное обучение (рекомендуется в первую очередь)
 - **Learn Git Branching (RU)**  
   https://learngitbranching.js.org/?locale=ru_RU  
